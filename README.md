@@ -1,6 +1,6 @@
  # File structure
  This repository contains the code for both the __PC side__ and the __MCU side__ for my master thesis. 
- ## The PC code
+ ## PC code
  ### Algorithms
  __images__: This folder contains some test images for the project.  
  
